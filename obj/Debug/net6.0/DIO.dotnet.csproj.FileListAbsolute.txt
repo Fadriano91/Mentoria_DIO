@@ -1,0 +1,15 @@
+C:\Users\Francis\dio\DIO.dotnet\bin\Debug\net6.0\DIO.dotnet.exe
+C:\Users\Francis\dio\DIO.dotnet\bin\Debug\net6.0\DIO.dotnet.deps.json
+C:\Users\Francis\dio\DIO.dotnet\bin\Debug\net6.0\DIO.dotnet.runtimeconfig.json
+C:\Users\Francis\dio\DIO.dotnet\bin\Debug\net6.0\DIO.dotnet.dll
+C:\Users\Francis\dio\DIO.dotnet\bin\Debug\net6.0\ref\DIO.dotnet.dll
+C:\Users\Francis\dio\DIO.dotnet\bin\Debug\net6.0\DIO.dotnet.pdb
+C:\Users\Francis\dio\DIO.dotnet\obj\Debug\net6.0\DIO.dotnet.csproj.AssemblyReference.cache
+C:\Users\Francis\dio\DIO.dotnet\obj\Debug\net6.0\DIO.dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francis\dio\DIO.dotnet\obj\Debug\net6.0\DIO.dotnet.AssemblyInfoInputs.cache
+C:\Users\Francis\dio\DIO.dotnet\obj\Debug\net6.0\DIO.dotnet.AssemblyInfo.cs
+C:\Users\Francis\dio\DIO.dotnet\obj\Debug\net6.0\DIO.dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Francis\dio\DIO.dotnet\obj\Debug\net6.0\DIO.dotnet.dll
+C:\Users\Francis\dio\DIO.dotnet\obj\Debug\net6.0\ref\DIO.dotnet.dll
+C:\Users\Francis\dio\DIO.dotnet\obj\Debug\net6.0\DIO.dotnet.pdb
+C:\Users\Francis\dio\DIO.dotnet\obj\Debug\net6.0\DIO.dotnet.genruntimeconfig.cache
